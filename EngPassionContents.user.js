@@ -19,10 +19,10 @@
     'use strict';
 
     // Store the original fetch function
-    var originalFetch = Window.fetch;
+    var originalFetch = window.fetch;
 
     // Override the fetch function
-    Window.fetch = function(url, options) {
+    window.fetch = function(url, options) {
         var originalURL = url
         if (url.includes('/api/adventure/content/')) {
             // Replace the URL with the desired URL
