@@ -5,7 +5,7 @@
 // @version      1.0
 // @description  If available on the github repo; it will replace Japanese stories with English ones. If they don't exist, then nothing will be replaced, and everything should work as usual.
 // @match        https://asobistory.asobistore.jp/*
-// @grant        none
+// @grant        GM_xmlhttpRequest
 // @updateURL    https://github.com/YumaRowen/EngPassionContents/raw/main/EngPassionContents.user.js
 // @downloadURL  https://github.com/YumaRowen/EngPassionContents/raw/main/EngPassionContents.user.js
 // @supportURL   https://github.com/YumaRowen/EngPassionContents/issues
@@ -18,10 +18,10 @@
     'use strict';
 
     // Store the original fetch function
-    var originalFetch = window.fetch;
+    var originalFetch = unsafeWindow.fetch;
 
     // Override the fetch function
-    window.fetch = function(url, options) {
+    unsafeWindow.fetch = function(url, options) {
         var originalURL = url
         if (url.includes('/api/adventure/content/')) {
             // Replace the URL with the desired URL
