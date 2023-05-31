@@ -13,7 +13,7 @@
 
 
 (function() {
-    var hostURL = 'https://github.com/YumaRowen/EngPassionContents/raw/main/patch/581r4zjrl8pn23k/101.csv'
+    var hostURL = 'https://github.com/YumaRowen/EngPassionContents/raw/main/patch/'
 
     'use strict';
 
