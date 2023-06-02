@@ -1,0 +1,6 @@
+id,type,resource,name,init_x,init_y,init_alpha,scale,offset_x,offset_y
+1,bg,/swf/area_bg/area03_stage04,背景,0,0,0,100,0,0
+2,bg,black,背景,0,0,100,100000,0,0
+3,fg,black,黒,0,0,0,100000,0,0
+4,fg,white,白,0,0,0,100000,0,0
+5,chara,07sai_03kuros_3_R01,"Kiyosumi Kurou",0,0,100,100,0,0

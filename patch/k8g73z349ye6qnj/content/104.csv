@@ -1,0 +1,21 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,5,,serif,,It seems､ in the end､ we stayed until the close of the party… Thank you for your accompaniment.,
+2,,,select,3,Let’s go rest somewhere.,
+3,3,,alpha,,100,10
+4,2,,alpha,,0,0
+5,1,,alpha,,100,0
+6,3,,alpha,,0,10
+7,5,,face,,joy,
+8,5,,serif,,Aah… The matcha and yokan are delicious. To think､ there could be a traditional sweets café in a place like this as well.,
+9,5,,face,,normal,
+10,5,,serif,,Phew… we finally have a chance to take a break. It seems there were too many things I was unfamiliar with.,
+11,,,select,3,You worked hard.,
+12,5,,serif,,Thank you very much. I really am quite exhausted､ but… I did gain something from it.,
+13,5,,serif,,Among those whom I had the chance to talk with､ there were also people who knew of Sai､,
+14,5,,serif,,And I managed to converse with many of the youths about tea ceremonies.,
+15,5,,serif,,It was a truly valuable experience､ being able to talk with those whom I would otherwise have few contact points with.,
+16,5,,face,,joy,
+17,5,,serif,,Fufu､ I must give my thanks to the one who invited me to the party､ it seems.,
+18,5,,face,,joy,
+19,5,,serif,,…Regardless､ talking with you in a place like this does calm me down､ Producer.,
+20,5,,serif,,It’s as I thought; I suit serene spaces more､ much like that of this traditional café.,

@@ -1,0 +1,17 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,4,,serif,,To allow for surprise and emotion to come from tea ceremonies and have them take an interest in it…,
+2,4,,serif,,How would Nekoyanagi-san and Hanamura-san express it? If I think about it that way…,
+3,2,,alpha,,100,10
+4,4,,face,,joy,
+5,5-6,,alpha,,100,0
+6,2,,alpha,,0,10
+7,4,,serif,,You must not step on the tatami mat’s border. There may be ninjas hiding under the floor.,
+8,5,,serif,panic,Huh… N-ninjas!? What does that mean?,
+9,4,,serif,,Ninjas who sneak into manors will attack from the gaps in between tatami mats.,
+10,4,,serif,,That is why you cannot step on the borders.,
+11,4,,serif,,This was a rule established for a long､ long time. It has continued ever since the eras when ninjas had prospered.,
+12,5,,serif,,Whoa､ really…! Hey､ has tea really been around for that long?,
+13,4,,serif,,It’s said that humans’ first discovery of tea was roughly 4000 years ago.,
+14,6,,serif,panic,Huh!? That long ago!? T-tea’s awesome…!,
+15,7,,alpha,,50,10
+16,4,,serif,,(Adding in actions and trivia… It seems I’ve managed to acquire their interest!),

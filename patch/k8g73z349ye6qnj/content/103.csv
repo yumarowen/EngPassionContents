@@ -1,0 +1,36 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,4,,x,,-140,10
+2,4,,y,,-20,10
+3,4,,y,,0,10
+4,7,,x,,600,10
+5,7,,alpha,,0,0
+6,7,,x,,140,0
+7,4,,serif,,Um… If you have a moment to talk! …They left…,
+8,4,,face,,sad,
+9,4,,serif,,Although I attempt to stir conversation､ it’s so loud that I cannot converse without shouting…,
+10,4,,serif,,I cannot obtain a chance to begin conversation. Just as I thought､ a place of this sort seems too difficult for me…,
+11,5,,x,,140,10
+12,5,,serif,happy,Kurou-chan､ you havin’ fun~? Let’s play darts over here together~!,
+13,4,,face,,normal,
+14,4,,serif,,Darts… is it? Erm､ this is… similar to that of Tousenkyou､ isn’t it?,
+15,4,,serif,,All I need to do is throw it? …There.,
+16,4,,x,,-160,10
+17,4,,x,,-140,10
+18,4,,x,,-160,10
+19,4,,x,,-140,10
+20,4,,x,,-160,10
+21,4,,x,,-140,10
+22,5,,serif,,Whoa!? You hit the center!? All three of them､ too!! You sure are awesome､ Kurou-chan!!,
+23,4-5,,alpha,,0,10
+24,2,,alpha,,100,8
+25,6,,alpha,,100,0
+26,2,,alpha,,0,8
+27,6,,serif,happy,I heard that dude rocking those traditional clothes is showin’ off real good with the darts over there!!,
+28,2,,alpha,,100,8
+29,6,,alpha,,100,0
+30,4,,x,,0,0
+31,6,,x,,-140,0
+32,4-6-7,,alpha,,100,0
+33,2,,alpha,,0,8
+34,7,,serif,happy,Ooh､ you seem like a pretty stiff guy､ but when we actually get talkin’ with you､ you’re actually real considerate! Bro!,
+35,4,,serif,,Why､ thank you… For some reason or another､ I’ve become surrounded by a great number of people.,

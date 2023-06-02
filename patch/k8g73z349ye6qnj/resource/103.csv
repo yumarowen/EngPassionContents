@@ -1,0 +1,8 @@
+id,type,resource,name,init_x,init_y,init_alpha,scale,offset_x,offset_y
+1,bg,/event/lottery_quest35/swf/live_02,背景,0,0,100,100,0,0
+2,fg,black,黒,0,0,0,100000,0,0
+3,fg,white,白,0,0,0,100000,0,0
+4,chara,07sai_03kuros_3_R01,"Kiyosumi Kurou",-600,0,100,100,0,0
+5,mob,man04,ﾁｬﾗい芸人,600,0,100,100,0,0
+6,mob,man01,ﾊﾟﾘﾋﾟ客A,0,0,0,100,0,0
+7,mob,man01,ﾊﾟﾘﾋﾟ客B,140,0,100,100,0,0

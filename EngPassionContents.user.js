@@ -2,7 +2,7 @@
 // @name         EngPassionContents
 // @namespace    EngPassionContents
 // @icon         https://github.com/YumaRowen/EngPassionContents/raw/main/logo.png
-// @version      1.0b
+// @version      1.1
 // @description  If available on the github repo; it will replace Japanese stories with English ones. If they don't exist, then nothing will be replaced, and everything should work as usual.
 // @connect      github.com
 // @match        https://asobistory.asobistore.jp/*
@@ -15,7 +15,6 @@
 
 (function() {
     var hostURL = 'https://raw.githubusercontent.com/YumaRowen/EngPassionContents/main/patch/'
-
     'use strict';
 
     // Store the original fetch function
@@ -24,10 +23,10 @@
     // Override the fetch function
     window.fetch = function(url, options) {
         var originalURL = url
-        if (url.includes('/api/adventure/content/')) {
+        if (url.includes('/api/adventure/')) {
             // Replace the URL with the desired URL
             var SplitURL = url.split('/');
-            var LoadURL = hostURL + SplitURL[4] + '/' + SplitURL[5] + '.csv';
+            var LoadURL = hostURL + SplitURL[4] + '/' + SplitURL[3] + '/' + SplitURL[5] + '.csv';
             url = LoadURL;
 
             // Function to fetch the response
@@ -36,7 +35,7 @@
                     .then(function(response) {
                         // Check if the response status is 404
                         if (response.status === 404) {
-                            console.log('The new URL returned a 404 response. Retrying with the original URL...');
+                            console.log('The new URL returned a 404 response. Retrying with the original URL...' + LoadURL);
                             // Retry with the original URL
                             return originalFetch(originalURL, options);
                         }

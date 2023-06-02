@@ -1,0 +1,34 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,4,,serif,,We’re finally getting started with filming the brand new program.,
+2,4,,serif,,It seems I will try my best… to convey the enjoyment of tea ceremonies to the children.,
+3,2,,alpha,,100,10
+4,2,,alpha,,0,10
+5,4,,face,,joy,
+6,4,,serif,,The foundation of tea ceremonies is consideration. When you reach your seats､ first…,会話後、走り回る男の子と女の子
+7,6,,x,,-140,10
+8,7,,x,,140,10
+9,6,,y,,-30,10
+10,6,,y,,0,10
+11,7,,y,,-30,10
+12,7,,y,,0,10
+13,6,,x,,-600,10
+14,7,,x,,600,10
+15,4,,face,,sad,
+16,4,,serif,,…Aah! You must not run around like that. You cannot eat the sweets without permission…!,
+17,4,,x,,70,11
+18,4,,x,,140,11
+19,4,,x,,-70,11
+20,4,,x,,-140,11
+21,5,,alpha,,100,8
+22,5,,serif,,At this rate､ we won’t be able to continue filming. We have no other choice but to pause for now. Take five.,
+23,5,,serif,,Hmm… The children’s response is even worse than we expected. This is a worry…,
+24,4,,serif,,My apologies… I’ll attempt to think of some sort of solution during this break.,
+25,2,,alpha,,100,10
+26,4,,x,,0,0
+27,5,,alpha,,0,0
+28,2,,alpha,,0,10
+29,4,,serif,,The reason for the stalling of the filming was due to my own lack of abilities…,
+30,4,,serif,,I cannot cause more problems for them any more than this.,
+31,4,,serif,,Additionally､ there is a possibility that people may think of tea ceremonies as just a formality used for social status.,
+32,4,,face,,angry,
+33,4,,serif,,I cannot flounder in a place like this. I have to do something about it…!,

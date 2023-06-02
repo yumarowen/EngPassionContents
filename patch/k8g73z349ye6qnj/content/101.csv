@@ -1,0 +1,17 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,4,,x,,0,10
+2,4,,serif,,Thank you for the hard work recording the variety program.,
+3,4,,serif,,It was a brand-new experience being able to work alongside those whom I would not normally meet.,
+4,4,,x,,-140,8
+5,5,,x,,140,8
+6,5,,serif,happy,Hey､ wassup! Kurou-chan~! Wanna head to the ending party after this?,
+7,4,,serif,,Thank you very much for the invitation. However､ I have a few things to take care of today…,
+8,5,,serif,happy,So how ‘bout we hang out a different day? I’ll be holding a party soon､ so drop by if you can!,
+9,4,,serif,,Party… Umm､ do you have some basis for which you are celebrating…?,
+10,5,,serif,,That’s not the sorta thing I wanna do it for! I wanna introduce you to a buncha people!,
+11,5,,serif,,You can talk with tons of people… Ah, it’s like one’a them tea parties you love!,
+12,4,,serif,,Similar to a tea party… you say? In that case, I hope you would do me the honor of participating.,
+13,4,,serif,,I gladly appreciate the invitation.,
+14,,,select,3,I’ll accompany you.,
+15,4,,face,,joy,
+16,4,,serif,,You’ll come along with me? Then､I’ll be in your care there.,

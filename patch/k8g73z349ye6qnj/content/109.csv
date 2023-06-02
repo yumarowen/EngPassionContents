@@ -1,0 +1,20 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,4,,face,,joy,
+2,4,,serif,,So now､ you’ll be the host. Shall we try serving the tea?,
+3,5,,serif,,O-okay! I’ll try!,
+4,4,,serif,,You don’t need to be nervous about it. What’s more important than serving the tea skillfully…,
+5,4,,serif,,Is thinking that you want everyone to enjoy delicious tea.,
+6,5,,serif,,Enjoy it… I’ll try it out､ then!,
+7,2,,alpha,,100,10
+8,6,,alpha,,100,0
+9,4,,alpha,,0,0
+10,2,,alpha,,0,10
+11,6,,serif,,Thank you for making the tea!,
+12,6,,serif,,*gulp*… Whoa…! It’s a little bitter､ but it perks me up!,
+13,6,,serif,happy,It smells good… It’s sweet and yummy!,
+14,5,,serif,happy,It was good!? …Hehe､ that makes me happy! I did it､ big bro Kurou!,
+15,5-6,,alpha,,0,10
+16,4,,x,,0,0
+17,4,,alpha,,100,10
+18,,,select,3,Looks like it went well.,
+19,4,,serif,,Yes…! It seems his heart came through with the hospitality…!,

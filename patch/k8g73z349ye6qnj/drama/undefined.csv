@@ -1,0 +1,11 @@
+id,title,title_swf,show_title,redirect_action,has_facial_expression,condition
+101,第1話,An Invitation to a Tea Party?,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;1')
+102,第2話,"Party people",1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;2')
+103,第3話,To Shoot an Arrow,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;3')
+104,第4話,A Serene Moment,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;4')
+105,第5話,A New Chance,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;5')
+106,第6話,The Difficulty of Conveying Things,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;6')
+107,第7話,A Pure White Teacup,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;7')
+108,第8話,The Surprise to be Found Within Tradition,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;8')
+109,第9話,Sweet and Bitter,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;9')
+110,最終話,Once-in-a-Lifetime Encounter,1,/side_memories/idol/73,1,funcIsOpenedSideMemoriesDrama('73;10')
