@@ -1,0 +1,11 @@
+id,title,title_swf,show_title,redirect_action,has_facial_expression,condition
+101,第1話,A Meeting With an Unfamiliar Face,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;1')
+102,第2話,Finding Fault Came from a Friend of the Past,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;2')
+103,第3話,The Stubbornness of a Minor Role,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;3')
+104,第4話,An Unforeseen Impetus,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;4')
+105,第5話,Accustomed to Skilled Technique,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;5')
+106,第6話,Feelings All in a Row,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;6')
+107,第7話,The End Won’t Come Yet,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;7')
+108,第8話,Where A Skilled Person Shines,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;8')
+109,第9話,Compliments for Permanence,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;9')
+110,最終話,Going Elegantly On the Path to the Stage,1,/side_memories/idol/72,1,funcIsOpenedSideMemoriesDrama('72;10')

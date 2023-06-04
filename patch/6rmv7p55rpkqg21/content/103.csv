@@ -1,0 +1,24 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,5,株井田刑事,serif,,“I ain’t going nowhere. Like hell I’d take part in what the Investigation Department’s doing!”,
+2,5,,alpha,,0,8
+3,4,,alpha,,100,8
+4,6,,alpha,,80,35
+5,4,,face,,sad,
+6,4,,serif,,(Just watching his practice from up close､ I know… This guy’s improved his skill for acting even more.),
+7,4,,face,,angry,
+8,4,,serif,,(I’m getting fired up now! In that case､ I’ll get even better!),
+9,2,,alpha,,100,35
+10,4,,face,,nomal,
+11,6,,alpha,,0,0
+12,2,,alpha,,0,35
+13,4,,serif,,Producer. This day and this day were days off､ right?,
+14,4,,serif,,If the lesson rooms are free､ could you reserve them? I felt like practicing my skit acting.,
+15,,,select,3,But you already have<br>the lesson times secured…,
+16,4,,face,,angry,
+17,4,,serif,,No. Watching Hakutsuru-chan’s acting back there fired me up too.,
+18,,,text,,You cautioned him not to overwork himself.,
+19,4,,face,,sorrow,
+20,4,,serif,,Oh? Did it look like I was going to do that? …You’re right. I might’ve gotten a bit too feisty.,
+21,4,,serif,,Letting the blood rush to my head isn’t what a pro would do for work､ hm.,
+22,4,,face,,joy,
+23,4,,serif,,Thanks for the cool-headed advice､ my cutie Producer.,

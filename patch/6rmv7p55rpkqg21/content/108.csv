@@ -1,0 +1,26 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,,,text,,A while after that､ on the day of filming for the detective drama…,
+2,,,select,3,Have you kept in touch<br>with the old woman?,
+3,4,,serif,,Oh､ yes､ I have to report to you､ since you did attend to me.,
+4,4,,face,,shy,
+5,4,,serif,,I got a call yesterday… The surgery was a success､ it seems. She’ll be discharged in two weeks.,
+6,4,,face,,joy,
+7,4,,serif,,She chided me､ saying that she wouldn’t accept the drama if it’s not interesting enough.,
+8,4,,serif,,I guess I’ll have to act out my role as a skilled restaurant owner with complete perfection. Now､ it’s time to get started with the stage. I’m heading out!,
+9,2,,alpha,,100,35
+10,4,,face,,normal,
+11,4,,x,,170,0
+12,5,,alpha,,100,0
+13,2,,alpha,,0,35
+14,5,Detective Kabuida,serif,,“Please､ sir. You’re the only one who’s got proof connected to the suspect. I just know it!”,
+15,4,,face,,sorrow,
+16,4,"Koyama Yuuga",serif,,“Do you think I’d go along with a guest in my own restaurant who would blab along rumors in another place? A guest who just hears what his close friend says and repeats it?”,
+17,4,,face,,normal,
+18,4,"Koyama Yuuga",serif,,“Kabuida-san. I have absolutely nothing to talk about with you now.”,
+19,5,Detective Kabuida,serif,,“That expression… It screams ‘What are you making me do､’ all over it. Can’t take advantage of you､ just as the rumors say.”,
+20,4,,face,,sad,
+21,4,"Koyama Yuuga",serif,,“Well､ who knows. Speaking of which､ there’s just been something I’ve been worried about for a while…”,
+22,6,,alpha,,80,35
+23,4,,face,,angry,
+24,4,,serif,,(Just try to act out something half-baked. I’ll eat your lead role right up if that ever happens.),
+25,5,,serif,,(Hanamura､ you little…! Keh! Try it if you can!),
