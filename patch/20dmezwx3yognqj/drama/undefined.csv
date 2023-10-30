@@ -1,0 +1,11 @@
+id,title,title_swf,show_title,redirect_action,has_facial_expression,condition,
+101,第1話,A Suspicious Student ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,1')
+102,第2話,An Unexpected Reunion ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,2')
+103,第3話,With How I Am Now,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,3')
+104,第4話,About the Conversation That Time ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,4')
+105,第5話,Those Feelings With Song ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,5')
+106,第6話,Just One Request ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,6')
+107,第7話,Yes､ You’re… ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,7')
+108,第8話,Roots of Kindness ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,8')
+109,第9話,This Hand For Someone Else ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,9')
+110,最終話,I’ll Keep Reaching Out ,1,/side_memories/idol/61,1,funcIsOpenedSideMemoriesDrama('61,10')

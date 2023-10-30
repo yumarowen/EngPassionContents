@@ -1,0 +1,48 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,,,text,,FRAME have come to preview a site specifically built for a release event for their new song.,
+2,4,,serif,,So we’re already through this far with our preview. I’m glad we got to talk to the staff members､ too. ,
+3,5,,face,,joy,
+4,5,,serif,,I’m already looking forward to the event even now! Let’s make it a good live no matter what! ,
+5,,,text,,You told them that there are no particular plans after this､ so they’re free to split up and do their own thing. ,
+6,4,,alpha,,0,5
+7,6,,alpha,,100,5
+8,6,,serif,,I see. I have somewhere I want to visit､ but what are you two going to do?,
+9,5,,face,,normal,
+10,5,,serif,,Ah､ I also have to go buy stuff since I was asked to. ,
+11,5,,alpha,,0,5
+12,4,,x,,-150,0
+13,4,,face,,joy,
+14,4,,alpha,,100,5
+15,4,,serif,,All right､ looks like we’re gonna split up here. Let’s work hard at lessons tomorrow､ too. ,
+16,2,,alpha,,100,30
+17,6,,alpha,,0,0
+18,4,,x,,0,0
+19,4,,face,,normal,
+20,2,,alpha,,0,25
+21,8,,alpha,,60,20
+22,4,,serif,,(Since I’m already here at the shopping mall､ maybe I should buy something good to bring back home for my family.) ,
+23,8,,alpha,,0,15
+24,4,,x,,180,15
+25,7,,alpha,,100,5
+26,8,,alpha,,60,20
+27,4,,face,,sad,
+28,4,,serif,,(…Hm? That student’s catching my attention a little. She’s been loitering around the exact same shelf for a while now.),
+29,4,,serif,,(Plus､ it’s like she’s been waiting to see how her surroundings are acting…),
+30,8,,alpha,,0,15
+31,4,,x,,160,10
+32,4,,face,,normal,
+33,4,,serif,,Hey. Is there something you’re looking for? Should I call an employee over for you?,
+34,7,,serif,,……Hh!,
+35,7,,x,,-200,5
+36,7,,x,,-200,15
+37,7,,x,,-550,25
+38,4,,x,,0,15
+39,4,,face,,sad,
+40,4,,serif,,—Oh. She left.,
+41,8,,alpha,,60,20
+42,4,,face,,angry,
+43,4,,serif,,(If I hadn’t talked to her then､ she probably would’ve ended up doing something… I’m glad nothing bad happened.),
+44,4,,y,,0,0
+45,4,,motion,happy,,
+46,4,,face,,sad,
+47,4,,serif,,(But I feel like I remember seeing that kid’s face somewhere before…),

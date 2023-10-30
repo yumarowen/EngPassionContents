@@ -1,0 +1,38 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,,,text,,A few days later､ Hideo was waiting to meet up with Producer for a different job’s meeting. ,
+2,6,,alpha,,60,20
+3,4,,serif,,(Producer’s… not here yet. I guess I came here too early.),
+4,4,,y,,0,0
+5,4,,motion,happy,,
+6,4,,face,,sad,
+7,4,,serif,,(I have a bit of time left､ so I’ll just wander around this area… Huh? That’s…),
+8,6,,alpha,,0,15
+9,4,,x,,170,15
+10,5,,alpha,,100,5
+11,6,,alpha,,60,20
+12,4,,serif,,(It’s the student I spotted before､ right? But at this hour､ students should still be in school…),
+13,4,,serif,,(….Aah. I remember now. If I’m not mistaken､ that girl’s…),
+14,6,,alpha,,0,15
+15,4,,x,,150,10
+16,4,,face,,normal,
+17,4,,serif,,Hey. It’s been a while. Do you still remember me?,
+18,5,,serif,,…What do you want? If you’re trying to pick me up､ sorry､ I… Wait— Could you be Akuno-san?,
+19,4,,face,,joy,
+20,4,,serif,,Looks like you remembered who I was. That’s nice to hear.,
+21,5,,serif,,…There’s no way I could forget you. This police officer in the juvenile division who had a terrifying smile… ,
+22,5,,serif,,Listened to what I had to say with a really friendly attitude… That gap was no joke､ honestly. ,
+23,4,,face,,sad,
+24,4,,serif,,I get the feeling that you remembered me unwillingly､ but… whatever. A lot sure happened that time､ too. ,
+25,4,,y,,0,0
+26,4,,motion,happy,,
+27,4,,face,,normal,
+28,4,,serif,,By the way､ are you on break from class today? It’s still a weekday and it’s still morning…,
+29,4,,alpha,,100,30
+30,4,,face,,sad,
+31,4,,serif,,…Clamming up､ are we? Hey､ if you have something you’re worried about again… ,
+32,5,,serif,,…Akuno-san､ I know you quit as a police officer. You’re working as an idol now. I’ve seen you on TV. ,
+33,5,,serif,,I don’t feel like being told to do this and that by someone who’s not even a policeman､ so… just leave me alone. ,
+34,5,,x,,-550,40
+35,4,,x,,0,12
+36,4,,serif,,Hey､ wait up…! Darn､ she left.,
+37,4,,serif,,Judging by how she was acting､ I guess something happened again. But what do I do… ,

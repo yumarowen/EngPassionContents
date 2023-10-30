@@ -1,0 +1,63 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,6,,serif,,Rehearsal went well. I think we’ll be able to pull off the performance without a problem.,
+2,5,,face,,joy,
+3,5,,serif,,All we need to do next is replenish our energy and then we’ll be perfect! Let’s go for lunch together!,
+4,6,,alpha,,0,5
+5,4,,alpha,,100,5
+6,4,,serif,,Ah､ I’ve got something to do､ so I’ll pass. You guys can eat ahead of me.,
+7,2,,alpha,,100,35
+8,5,,alpha,,0,0
+9,4,,x,,550,0
+10,2,,alpha,,0,30
+11,4,,x,,0,30
+12,9,,alpha,,60,20
+13,4,,face,,sad,
+14,4,,serif,,(I hope that girl comes… Huh? It’s noisy around that bench area.),
+15,9,,alpha,,0,15
+16,4,,alpha,,0,5
+17,7,,alpha,,100,5
+18,8,,alpha,,100,5
+19,8,,serif,,You really were here in a place like this. You’re skipping yet again? I can’t believe you.,
+20,8,,serif,,You’re doing this because I’m not at home because of work､ aren’t you…  We’re going home now. You have to study to make up for how late you are.,
+21,7,,serif,,Let go of me! You keep going off on your own and deciding what I should do for you!,
+22,7,,alpha,,0,5
+23,8,,alpha,,0,5
+24,4,,alpha,,100,5
+25,9,,alpha,,60,20
+26,4,,face,,angry,
+27,4,,serif,,(It’s that girl’s mother. Just like before､ it just seems the mother’s looking at her daughter without actually looking at her…),
+28,9,,alpha,,0,15
+29,4,,alpha,,0,5
+30,8,,alpha,,100,5
+31,4,,x,,550,0
+32,4,,alpha,,100,5
+33,4,,face,,normal,
+34,4,,x,,150,30
+35,4,,serif,,Excuse me. Could you please wait before you take her back home?,
+36,4,,y,,0,0
+37,4,,motion,happy,,
+38,4,,face,,sad,
+39,4,,serif,,I was the one who invited her here. I wanted her to come here and listen to our song.,
+40,4,,y,,0,0
+41,4,,motion,happy,,
+42,4,,face,,angry,
+43,4,,serif,,Even if it’s for one song only､ I want her to listen to our song. Please､ I’m begging you.,
+44,4,,y,,20,10
+45,4,,y,,20,10
+46,4,,y,,0,12
+47,4,,alpha,,0,5
+48,7,,alpha,,100,5
+49,9,,alpha,,60,20
+50,7,,serif,,(Akuno-san’s even bowing his head…),
+51,9,,alpha,,0,15
+52,7,,serif,,…Hey. Please､ just one song is fine､ right? When I’m done listening､ I’ll go right back home.,
+53,8,,serif,,…There’s a crowd gathering up now because of you… Fine､ then. Just one song.,
+54,7,,alpha,,0,5
+55,8,,alpha,,0,5
+56,4,,x,,0,0
+57,4,,alpha,,100,5
+58,9,,alpha,,60,20
+59,4,,face,,normal,
+60,4,,serif,,(One song only… This must be the maximum compromise her mother can make.,
+61,4,,serif,,It looks like I’ll have to put the message I want to say… all in one song､ then!),
+62,9,,alpha,,0,15

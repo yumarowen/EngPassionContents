@@ -1,0 +1,29 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,4,,face,,sad,
+2,4,,serif,,I’m sorry for startling you. I was quite young when it happened.,
+3,4,,y,,0,0
+4,4,,motion,happy,,
+5,4,,face,,normal,
+6,4,,serif,,I still remember the police officer who saved me that time､ crystal-clear､ even now.,
+7,4,,serif,,After that､ I started admiring that person and aimed to become a police officer because of them.,
+8,4,,y,,0,0
+9,4,,motion,happy,,
+10,4,,face,,joy,
+11,4,,serif,,I thought I’d be able to save people just like that person did for me.,
+12,4,,y,,0,0
+13,4,,motion,happy,,
+14,4,,face,,normal,
+15,4,,serif,,Right now､ I’ve become an idol､ ,
+16,4,,serif,,but the thing I’m aiming for has never changed…,
+17,4,,y,,0,0
+18,4,,motion,happy,,
+19,4,,face,,joy,
+20,4,,serif,,So now､ I want to reach out a hand to people who are lonely through my songs.,
+21,4,,serif,,I want to tell them､ “You’re not alone…” Yes､ I’m always thinking about that.,
+22,4,,select,1,You’re succeeding at it amazingly.,
+23,4,,face,,normal,
+24,4,,serif,,You think so? Haha､ thank you､ Producer. But I’ve still got a ways to go.,
+25,4,,y,,0,0
+26,4,,motion,happy,,
+27,4,,face,,joy,
+28,4,,serif,,As long as there are people with loneliness clinging to them､ I’ll keep on singing with all I have from here on out.,

@@ -1,0 +1,31 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,,,text,,After some time had passed､ there was a fan letter delivered to Hideo.,
+2,4,,serif,,This name… I’m surprised. It looks like it’s from that high schooler we talked about before.,
+3,4,,y,,0,0
+4,4,,motion,happy,,
+5,4,,face,,joy,
+6,4,,serif,,Thanks for giving it to me. I’ll read it right away.,
+7,4,,y,,0,0
+8,4,,motion,happy,,
+9,4,,face,,normal,
+10,4,,serif,,…I see. She found what she wanted to do.,
+11,,,select,1,You look happy.,
+12,4,,serif,,Yeah. It sounds like she’s started going to school again.,
+13,4,,serif,,You know how I said that we talked about a bunch of different things while I was holding her in protective care?,
+14,4,,y,,0,0
+15,4,,motion,happy,,
+16,4,,face,,joy,
+17,4,,serif,,Apparently､ she started admiring jobs where she could approach people and talking to them about their worries､ starting then.,
+18,4,,serif,,So she started studying to become a counselor.,
+19,4,,y,,0,0
+20,4,,motion,happy,,
+21,4,,face,,normal,
+22,4,,serif,,It still looks like she’s clashing with her parents､ but she’s going to prep school properly too.,
+23,4,,serif,,She managed to make a friend who’s also aspiring to become a counselor､ so studying’s gotten fun now… it says.,
+24,4,,serif,,But even so､ when things get tough for her､ she listens to our song､ and it gives her courage…,
+25,4,,serif,,…I guess this means my way of saving people was a success.,
+26,4,,serif,,Producer. I’ll keep delivering my songs to a great number of people.,
+27,4,,serif,,I’d reach out my hand to people who are stuck､ isolated､ by themselves… I realized it again.,
+28,,,select,1,Let’s keep working hard together.,
+29,4,,face,,joy,
+30,4,,serif,,Yeah. I’ll be counting on you too､ Producer. I’ll continue to be in your care from now on!,

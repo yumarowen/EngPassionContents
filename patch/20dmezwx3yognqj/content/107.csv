@@ -1,0 +1,28 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,4,,serif,,Hey､ everyone! Thanks for coming to FRAME’s live!,
+2,5,,serif,happy,We’re here today to tell you all what kind of unit FRAME is~!,
+3,4,,alpha,,0,5
+4,6,,alpha,,100,5
+5,6,,serif,,I was a soldier､ Ryuu was a firefighter､ and Hideo was a police officer… Our previous jobs were all unique to each of us.,
+6,5,,serif,,Though they were different in how they did it､ our previous jobs were connected to helping people out.,
+7,6,,alpha,,0,5
+8,4,,alpha,,100,5
+9,4,,serif,,Yeah. Those passionate feelings we had then have never changed､ and they’re still the same､ even now､ as we’re idols. ,
+10,5,,alpha,,0,5
+11,4,,x,,0,20
+12,4,,serif,,I became an idol because I wanted to tell everyone that they’re not alone.,
+13,4,,serif,,Whenever I stand on stage as an idol､ I always put those feelings into my song!,
+14,4,,serif,,For this mini live today､ too: I’m going to sing with all I’ve got and put these feelings into it! You better listen!,
+15,4,,alpha,,0,5
+16,7,,alpha,,100,5
+17,9,,alpha,,60,20
+18,7,,serif,,(…When I hear their song… When I listen to it､ I feel strange.,
+19,7,,serif,,I feel like I’m being supported. I see. I’m not alone either.),
+20,9,,alpha,,0,15
+21,2,,alpha,,100,25
+22,7,,x,,150,0
+23,8,,alpha,,100,0
+24,2,,alpha,,0,20
+25,8,,serif,,…The one song’s over. Come on､ we’re going home now. ,
+26,7,,serif,,Okay…,
+27,7,,serif,,…Hey､ Mom. There’s something I want to talk with you about､ where I want to go for my career…,

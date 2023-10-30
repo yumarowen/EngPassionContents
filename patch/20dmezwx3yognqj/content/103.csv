@@ -1,0 +1,26 @@
+id,resource_id,resource_label,type,motion,value,frame
+1,,,text,,Afterwards､ Hideo explained the circumstances to Producer after they met up.,
+2,4,,face,,sad,
+3,4,,serif,,…And､ so basically､ before this､ I ran into a girl I knew. It was a complete coincidence. ,
+4,4,,y,,0,0
+5,4,,motion,happy,,
+6,4,,face,,normal,
+7,4,,serif,,The reason we came to know each other was because she was skipping school､ so I was in charge of her protective care. ,
+8,4,,y,,0,0
+9,4,,motion,happy,,
+10,4,,face,,sad,
+11,4,,serif,,It didn’t look like I was going to solve things just by sending her back home､ so we talked about a bunch of different things. ,
+12,4,,y,,0,0
+13,4,,motion,happy,,
+14,4,,face,,sorrow,
+15,4,,serif,,If she’s worrying about something again now､ I want to help her out somehow… ,
+16,4,,serif,,Right now､ I’m not a police officer or anything special. I’m just a regular guy. ,
+17,4,,serif,,I’m being limited on how I can do something about this issue､ because I don’t know how much I can do. ,
+18,,,select,1,You should do things the<br>way you feel like handling it.,
+19,4,,face,,normal,
+20,4,,serif,,I see… You’re right. Thanks to you､ I’ve made up my mind. ,
+21,4,,y,,0,0
+22,4,,motion,happy,,
+23,4,,face,,joy,
+24,4,,serif,,I’ll try doing things the way I think they should be done. ,
+25,4,,serif,,…Thanks for supporting me､ Producer! ,

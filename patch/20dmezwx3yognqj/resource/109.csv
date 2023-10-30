@@ -1,0 +1,5 @@
+id,type,resource,name,init_x,init_y,init_alpha,scale,offset_x,offset_y
+1,bg,/campaign_common/drama/swf/background/office_03,背景,0,0,100,100,0,0
+2,fg,black,黒,0,0,0,100000,0,0
+3,fg,white,白,0,0,0,100000,0,0
+4,chara,06frame_01hideoa_1_R01,Hideo Akuno,0,0,100,100,0,0
